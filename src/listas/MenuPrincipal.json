@@ -1,0 +1,70 @@
+{
+  "MenuPrincipal": [
+    {
+      "opc": "1",
+      "text": "Configuración",
+      "icon": "mdi-account-wrench",
+      "route": "/panelUsuarios",
+      "names": "panelUsuarios",
+      "color": "red"
+    },
+    {
+      "opc": "2",
+      "text": "Ingresar Movimiento",
+      "icon": "mdi-cash-register",
+      "route": "/Ingreso",
+      "names": "Ingreso",
+      "color": "red"
+    },
+    {
+      "opc": "3",
+      "text": "Gastos",
+      "icon": "mdi-clipboard-list-outline",
+      "route": "/Gastos",
+      "names": "Gastos",
+      "color": "red"
+    },
+    {
+      "opc": "4",
+      "text": "Agregar Viaje",
+      "icon": "mdi-car",
+      "route": "/Viajes",
+      "names": "Viajes",
+      "color": "red"
+    },
+    {
+      "opc": "3",
+      "text": "Viajes",
+      "icon": "mdi-car",
+      "route": "/ListaViajes",
+      "names": "ListaViajes",
+      "color": "red"
+    }
+  ],
+  "MenuClientes": [
+    {
+      "opc": "1",
+      "text": "Configuración",
+      "icon": "mdi-account-wrench",
+      "route": "/panelUsuarios",
+      "names": "panelUsuarios",
+      "color": "red"
+    },
+    {
+      "opc": "2",
+      "text": "Ingresar Movimiento",
+      "icon": "mdi-cash-register",
+      "route": "/Ingreso",
+      "names": "Ingreso",
+      "color": "red"
+    },
+    {
+      "opc": "3",
+      "text": "Elegir Viaje",
+      "icon": "mdi-car",
+      "route": "/ListaViajes",
+      "names": "ListaViajes",
+      "color": "red"
+    }
+  ]
+}
